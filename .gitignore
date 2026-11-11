@@ -1,0 +1,12 @@
+.env
+venv/
+medrag_env/
+chroma_db/
+.hf_cache/
+pipeline_cache.json
+__pycache__/
+*.pyc
+eval_results.json
+.DS_Store
+pipeline_old.py
+new_app.py
