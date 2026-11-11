@@ -2,7 +2,7 @@
 
 A RAG pipeline for answering medical and public health queries, with a focus on Pakistan-specific epidemiological data. It retrieves evidence from the web and a local vector store, scores source reliability, reranks results, and answers with citations. When exact data is missing, it expands the query geographically and says so.
 
-Built with LangChain, ChromaDB, Groq (Llama-3.3-70B) and Gemini embeddings. Final year project at LUMS, built with Hadi and Taimoor.
+Built with LangChain, ChromaDB, Groq API (Llama-3.3-70B) and Gemini embeddings. 
 
 ## Setup
 ```bash
